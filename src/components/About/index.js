@@ -13,7 +13,7 @@ function About() {
             <img src={''} style={{ width: "100%" }} alt="profile" />
           </div>
           <p>
-            Greetings! I'm Radhika, residing in the dublin city of California. I am a software Engineer , learining react/javascript and mongoose and i did build couple of web apps like wether dashboard, techblog, reciepe site</p>
+            Greetings! I'm Radhika, residing in the dublin city of California. I am a software Engineer , learining react/javascript and mongoose and i did build couple of web apps like weather dashboard, techblog, reciepe site and i will keep updating my projects lists under Portfolio</p>
           </div>
       </div>
     </section>
